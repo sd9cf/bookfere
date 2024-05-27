@@ -1,2 +1,2 @@
 Slashdot.org
-lwn_free.recipe
+LWN Linux Weekly News (Free)
