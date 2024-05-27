@@ -1,2 +1,2 @@
 Slashdot.org
-lwn_free
+lwn_free.recipe
